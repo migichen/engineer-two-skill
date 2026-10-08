@@ -14,7 +14,7 @@ It also learns from previously unsuccessful ideas and uses those lessons to gene
 
 ## Installation
 
-Copy the `engineer-two` folder into your coding agent's skills directory. For example:
+Copy the `engineer-two` folder (or using symlink) into your coding agent's skills directory. For example:
 - `.claude/skills` for Claude Code.
 - `.codex/skills` for OpenAI Codex.
 
